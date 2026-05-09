@@ -1,14 +1,12 @@
 # SQL NOTES
 
 # 1. Introduction
+##
 
-![](image.png)
 
-```text
-Session 1: (2T + 2L)
 
-Lecture:
-Introduction to DBMS,
+
+# Sllybous
 Basic Database Terminology
 Types of DBMS: Relational, Object Relational and NoSQL Databases
 Introduction to MySQL,
